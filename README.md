@@ -19,7 +19,7 @@
   * In order to install this program, you must have node.js installed first. Download this repository and access it in your terminal of choice. When you are in the root folder enter "npm install" in the terminal to install all necessary packages. Afterwards, type "node server" into the prompt to begin the program.
 
   * Watch the video on how to install this program and get it running [here](https://youtu.be/0t26D_Qnz3E)
-  ![image](./assets/01.png)
+  ![image](./assets/01.PNG)
   
   ## Usage
   * Use this program to manage your employees, their roles, and who their managers are. 
@@ -28,7 +28,7 @@
   * Currently, no contributions necessary.
   
   ## Test Instructions
-  * To make sure all NPM Packages are working correctly, type "npm run test" into the terminal. If all test suites pass, the program is in good standing.
+  * No testing required.
   
   ## License
   * The application is covered under the following license:
